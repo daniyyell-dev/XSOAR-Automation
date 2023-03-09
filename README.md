@@ -1,0 +1,2 @@
+# XSOAR-Automation
+scripts samples
